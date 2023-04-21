@@ -12,9 +12,12 @@
 </head>
 <body>
     <h2>여기는 Index</h2>
-    <a href="/hello1">Hello 1</a>
+    <a href="/hello1">Hello 1</a> <br>
     <%-- <a href="/hello2">Hello 2</a>--%>
-    <button onclick="hello2()">hello2</button>
+    <button onclick="hello2()">hello2</button> <br>
+    <a href="/hello3">hello3로 보내줘요!</a> <br>
+    <a href="/hello4">hello4로 보내줘요!</a> <br>
+    <a href="/hello5">hello5로 보내줘요!</a> <br>
 </body>
 <script>
     const hello2 = () => {

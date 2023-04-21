@@ -20,6 +20,6 @@
         const name = "JaneDoe";
         const age = 29;
         location.href = "hello-param1?name="+name+"&age="+age;
-    }
+
 </script>
 </html>
